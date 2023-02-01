@@ -1,1 +1,3 @@
-Hello GitHub
+# Hello GitHub
+
+# testing local pc connection to Git
