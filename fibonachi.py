@@ -1,4 +1,4 @@
-num ={1: 0, 2: 2}
+num ={1: 0, 2: 1}
 
 def fib(n):
     if n not in num:
